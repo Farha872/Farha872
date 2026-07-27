@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-oriented Quality Engineer with over 4 years of experience in full-stack testing solutions. Proven expertise in Functional Test Planning, API testing, and security regression suites. Adept at driving quality across the application life-cycle through automation strategy, CI/CD integration, and collaborative defect management in multi-disciplinary teams.
+Results-oriented Quality Engineer with over 4 years of experience in Testing. Proven expertise in Functional Test Planning, API testing, and security regression suites. Adept at driving quality across the application life-cycle through automation strategy, CI/CD integration, and collaborative defect management in multi-disciplinary teams.
 
 
 ## 🌐 Socials:
